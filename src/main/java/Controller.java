@@ -3,4 +3,7 @@ public class Controller {
         System.out.println("master 1");
         System.out.println("feat1");
     }
+    public static void work(){
+        System.out.println("feat2");
+    }
 }
